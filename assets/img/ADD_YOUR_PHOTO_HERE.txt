@@ -1,0 +1,8 @@
+Add your photo here and name it "profile.jpg" (or .png — just update the <img src="..."> 
+paths in index.html to match the extension).
+
+Recommended: a square, well-lit headshot, at least 400x400px, cropped so your face is
+centered (the site displays it inside a circle).
+
+Until you add a real photo, the site automatically shows a circular "SS" initials
+avatar as a placeholder — so nothing looks broken in the meantime.
